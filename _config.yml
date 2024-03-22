@@ -52,8 +52,11 @@ metadata: black-library_metadata
 #
 organization-name: "Grinnell College Libraries"
 organization-link: https://www.grinnell.edu/academics/libraries
+organization-logo-banner: /assets/img/digital-grinnell-logo.png
+organization-logo-nav: /assets/img/Primary_Libraries-Cropped-White-Text.png
+
 organization-logo-banner: https://digital.grinnell.edu/sites/default/themes/digital_grinnell_bootstrap/logo.png
-organization-logo-nav: grinnell_college_libraries_transparent.png
+# organization-logo-nav: https://collectionbuilder.blob.core.windows.net/config/Primary_Libraries.png
 
 ##########
 # ROBOTS EXCLUDE
