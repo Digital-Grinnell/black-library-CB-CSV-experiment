@@ -25,6 +25,64 @@ bundle exec jekyll serve
 `grinnell_<index>` denotes a legacy object imported from _Digital.Grinnell_.  
 `dg_<epoch>` denotes a new object NOT imported from _Digital.Grinnell_.  `<epoch>` is a simple 10-digit UNIX epoch time generated when the object is cataloged. 
 
+## Building as an Azure Static Web App
+
+Following the guidance provided in [Deploy your web app](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-jekyll#deploy-your-web-app)...  
+
+I choose the `jekyll` build option rather than `Custom` and got this workflow file...  
+
+```yml
+name: Azure Static Web Apps CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+    branches:
+      - main
+
+jobs:
+  build_and_deploy_job:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    runs-on: ubuntu-latest
+    name: Build and Deploy Job
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          lfs: false
+      - name: Build And Deploy
+        id: builddeploy
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_<GENERATED_HOSTNAME> }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
+          action: "upload"
+          ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
+          # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
+          app_location: "./" # App source code path
+          api_location: "" # Api source code path - optional
+          output_location: "_site" # Built app content directory - optional
+          ###### End of Repository/Build Configurations ######
+
+  close_pull_request_job:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    name: Close Pull Request Job
+    steps:
+      - name: Close Pull Request
+        id: closepullrequest
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_<GENERATED_HOSTNAME> }}
+          action: "close"
+```
+
+Following the aforementioned procedure eventually produced the site https://zealous-rock-08144ee10.4.azurestaticapps.net.  
+
+This workflow uses GitHub Actions to deploy and you can see the status of deployment at https://github.com/Digital-Grinnell/black-library-CB-CSV-experiment/actions?query=workflow%3A%22Azure%20Static%20Web%20Apps%20CI%2FCD%22%20branch%3Amain.  
 
 
 
