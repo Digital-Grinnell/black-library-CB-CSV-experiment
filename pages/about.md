@@ -7,25 +7,18 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/jumbotron.html objectid="https://dgobjects.blob.core.windows.net/smalls/grinnell_5768_JPG.jpg" position= "top" %} 
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+ {% include feature/nav-menu.html sections="About Grinnell College's Black Library; About this Collection" %} -->
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Grinnell College Black Library 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Black Library is more than a simple speciality section of the library; it’s a result of incredible student activism by Grinnell students, aimed at promoting greater social justice, representation, and equality in the library.  Located on the second floor of Burling Library, the Black Library houses a small portion of scholarship and writings by African and African American scholars. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## About this collection
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+This collection serves three purposes. First, this site aims to share the story of the Black Library and highlight the work of the student activists involved. Second, the website serves as companion to the physical exhibit about the Black Library, located on the East side of the Black Library. The website will allow the visitors of the Black Library to take a deeper dive into the history and materials surronding the Black Library. Third, this website serves as a test of CollectionBuilder and its potential as a tool to create digital collections from Grinnell College's materials, specifically the digitized items found in Digital Grinnell. 
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
