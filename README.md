@@ -14,6 +14,20 @@ Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/)
 
 ----------
 
+## Running Locally
+
+```zsh
+bundle exec jekyll serve
+```
+
+## `objectid` Convention
+
+`grinnell_<index>` denotes a legacy object imported from _Digital.Grinnell_.  
+`dg_<epoch>` denotes a new object NOT imported from _Digital.Grinnell_.  `<epoch>` is a simple 10-digit UNIX epoch time generated when the object is cataloged. 
+
+
+
+
 ## Brief Overview of Building a Collection
 
 The [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) contain detailed information about building a collection from start to finish--including installing software, using Git/GitHub, preparing digital objects, and formatting metadata.
