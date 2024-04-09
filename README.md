@@ -12,7 +12,7 @@ Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/)
 | ---  | ---         |  
 | https://docs.google.com/spreadsheets/d/17uNXLP5aTSCfYZ8FXBqTvDd-z0F19FJeAOK5TsCr-PI/edit | The project's public metadata spreadsheet, built from https://docs.google.com/spreadsheets/d/1nN_k4JQB4LJraIzns7WcM3OXK-xxGMQhW1shMssflNM/edit#gid=1973435486 and our SHEETS predecessor. |
 | https://zealous-rock-08144ee10.4.azurestaticapps.net | `main` branch deployed to Azure Static Web Apps |  
-
+| https://docs.google.com/spreadsheets/d/17uNXLP5aTSCfYZ8FXBqTvDd-z0F19FJeAOK5TsCr-PI/edit#gid=823757564 | "From the Documentation" portion of our Google Sheet | 
 
 ----------
 
