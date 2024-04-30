@@ -1,5 +1,11 @@
 # CollectionBuilder-CSV
 
+# Attention!  We Have Issues
+
+2024-04-30T09:42:20-05:00 - **Why did we abandon CB SHEETS in favor of CSV?**  
+
+---
+
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
 The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
