@@ -10,6 +10,8 @@
     - "align" = text alignment (center, right, left)
 
 {%- endcomment -%}
+<!-- cb: _includes/feature/alert.html-->
 <div class="alert alert-{{ include.color | default: 'primary' }} feature-alert {% if include.align %}text-{{ include.align }}{% endif %}" role="alert">
 {{ include.text | markdownify }}
 </div>
+<!-- /cb: _includes/feature/alert.html-->
