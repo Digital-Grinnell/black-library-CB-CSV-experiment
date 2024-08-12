@@ -20,6 +20,7 @@
     - "width" = will use responsive sizing to set the % size on desktop (will be 100% on mobile), choose from "25", "50", "75", or "100" (optional)
     
 {%- endcomment -%}
+<!-- cb: _includes/feature/image.html-->
 {%- assign figures = include.objectid | split: ";" %}
 {%- assign figcount = figures | size -%}
 {%- assign captions = include.caption | split: ";" %}
@@ -48,3 +49,4 @@
         </figure>
     </div>{% endfor %}
 </div>
+<!-- /cb: _includes/feature/image.html-->
