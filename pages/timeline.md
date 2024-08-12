@@ -1,7 +1,7 @@
 ---
 title: Timeline
-layout: timeline
+layout: page-full-width
 permalink: /timeline.html
 ---
-
-## Collection Timeline
+To see all items of the collection in a timeline, please see the [Full Timeline page](/fulltimeline.html)
+{% include feature/timelinejs.html %}
