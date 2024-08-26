@@ -11,3 +11,8 @@ gem 'mini_magick'
 gem 'rake'
 
 gem 'webrick', '~> 1.7'
+
+# see https://jekyll-themes.com/octopress/debugger
+group :jekyll_plugins do
+  gem 'octopress-debugger'
+end
