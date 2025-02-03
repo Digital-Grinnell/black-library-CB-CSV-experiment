@@ -26,9 +26,7 @@ With this mindset, CBS members and Professor Virginius Thornton took over the Tw
 
 The demonstration ended when Dean Wally Walker arrived. He informed the students that this action violated “federal laws which forces immediate termination of U.S. Office of Education grants and National Defense Loans to students involved in ‘the seizure of property under the control of an institution of higher education to require or prevent the the availability of certain curriculum or to prevent the faculty, administrative officials or students of such institution from engaging in their duties or pursuing their studies at such institution” (*Scarlet & Black* 2/18/1972).  Walker told students they must leave in 5 minutes. The students stayed for another 4 minutes and 30 seconds before leaving. 
 
-{% include feature/image.html objectid="dg_1712600278"%}
-
-This did not deter CBS from further demonstrations. Later that same month, CBS students staged a more subtle demonstration in library. Between the hours of 10 and 11 pm on February 29th, 1972, around 40 students checked out over 800 books relevant to Black studies. Librarian Henry Alden reported to Dean Wally Walker that the students did not violate any library rules in this demonstration, but did keep the library unusually busy
+This did not deter CBS from further demonstrations. Later that same month, CBS students staged a more subtle demonstration in library. Between the hours of 10 and 11 pm on February 29th, 1972, around 40 students checked out over 800 books relevant to Black studies. Librarian Henry Alden reported to Dean Wally Walker that the students did not violate any library rules in this demonstration, but did keep the library unusually bus.
 
 {% include feature/pdf.html objectid="dg_1712600267" width="50"%}
 

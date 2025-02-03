@@ -8,6 +8,7 @@ permalink: /burlingtakeover.html
 Despite CBS’s efforts, there were many aspects of campus life that negatively affected Black students and that the administration was not actively addressing. In order to put pressure on the college to address their issues, the members of CBS staged a take over of Burling Library. 
 At the time, the office of the president resided in Burling, and it was a main hub of campus activity. For this reason, CBS students chose the library as their protest location.
 On the morning of November 29th, 1971, over 50 students occupied Burling Library. The students chained the doors, prevented white patrons from entering, and distributed The Black Manifesto; a list of 10 demands designed to improve campus life for Black students and faculty.
+
 {% include feature/pdf.html objectid="dg_1712600259" caption="The December 1st 1971 issue of the student newspaper, The Scarlet & Black, reported on the Burling Takeover"%}
  
 
@@ -24,14 +25,12 @@ The Black Manifesto listed 10 demands that aimed at improving the black experien
 9. that Black students be given the full administration of all funds dealing with the survival of Blacks;
 10. the institution of a Black library with all audio-visual equipment that will aid in the academic survival of all Black students.
 
-{% include feature/pdf.html objectid="grinnell_10547"caption="the Black Manifesto"%}
-
-
 ## Reactions
 
 ### From the College Administration 
 The administration and faculty at Grinnell College quickly met to discuss the demands. The minutes from these discussions are featured below. Overall, there was little opposition voiced against the demands, but many had questions about how these demands would be met logistically and fairly. 
-{% include feature/pdf.html objectid="dg_1711472907 caption="a pdf of the Black Manifesto" %}
+
+{% include feature/pdf.html objectid="dg_1711472907" caption="The Black Manifesto followed by the Faculty Meeting minutes"%}
 
 
 ### From Fellow Students
