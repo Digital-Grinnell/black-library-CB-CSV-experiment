@@ -3,6 +3,7 @@ title: The Black Library
 layout: about
 permalink: /blacklibrary.html
 ---
+# The Black Library
 
 ## Prior calls for the Black library
 The Burling Library Takeover was not the first time CBS requested the creation of the Black Library. In 1968, CBS proposed that Student Government Association (SGA)  provide $400 (adjusted for inflation, the sum would be about $3,600 in 2024) for creating a Black Library as well as a Black student newspaper. 
@@ -21,7 +22,7 @@ This statement shows that the librarians at  Burling likely were not able to dem
 By February of 1972, CBS was frustrated by the slow process of creating the Black Library, as well as the inaction their other demands. This frustration, mixed with the misunderstanding of the labor required to properly re-catalog books, lead to CBS members to take action again. As Alan Wheat ‘72 stated “The implication we got from all (the meetings) was that there was a manpower shortage … "that they needed some help in the establishment and relocation of this material.” According to the Scarlet & Black published on February 18th, 1972, head librarian Henry Alden tried to tell students that it was  “impossible for inexperienced students to catalog the collection”, and CBS president Lawerence Wright responded with "I hate to overstep his expertise, but we feel that we might be intelligent enough to effectively catalog those holdings”.
 With this mindset, CBS members and Professor Virginius Thornton took over the Twentieth Century Room at 10 pm on Thursday, February 17th. Using the library’s printed bibliographies for “Afro-American and African Studies” books, students went around the library and moved books of interest from their usual locations to the Twentieth Century Room, and removed the existing volumes in the room. 
 
-{% include feature/pdf.html objectid="dg_1712600262"%}
+{% include feature/pdf.html objectid="https://dgobjects.blob.core.windows.net/objs/dg_1712600278.jpg"%}
 
 The demonstration ended when Dean Wally Walker arrived. He informed the students that this action violated “federal laws which forces immediate termination of U.S. Office of Education grants and National Defense Loans to students involved in ‘the seizure of property under the control of an institution of higher education to require or prevent the the availability of certain curriculum or to prevent the faculty, administrative officials or students of such institution from engaging in their duties or pursuing their studies at such institution” (*Scarlet & Black* 2/18/1972).  Walker told students they must leave in 5 minutes. The students stayed for another 4 minutes and 30 seconds before leaving. 
 
