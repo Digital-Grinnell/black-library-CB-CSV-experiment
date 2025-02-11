@@ -20,8 +20,9 @@ This project initially started with the goal to create a poster exhibit near Bur
 Additionally, the members of the Burling Library were in the process of experimenting with new means of displaying our digital collections. We were interested in testing CollectionBuilder, an open source framework for creating digital collection and exhibit websites, for this purpose. The items and metadata we had collected for the physical Black Library exhibit seemed like the perfect material to use for testing this software. Mark McFate, Digital Library Applications Developer, and Libby Cave, Digital Humanities and Instruction Term Librarian, teamed up to create the project. McFate handled much of the information technology infrastructure of the project, while Cave handle the research and exhibit creation. CollectionBuilder proved to be a great match for this project as its static approach allows for long-term sustainability, and it’s many built-in features allows for deeper discoverability and interpretation of the materials. Moreover, the flexibility of the tool allowed for us to create a “People” page, so users, especially those who were directly involved, can see the documents, photos, and other items associated with specific person. 
 
 ## Special Thanks
-The project received significant assistance from the college’s Archives and Special Collections team (Chris Jones and Allison Haack) and Petrouchka Moïse, Cultural & Community-based Digital Curator, who provided invaluable expertise on the historic Black experience at Grinnell College. 
+Petrouchka Moïse, Cultural & Community-based Digital Curator, and B. Jenée Spencer, Director of Intercultural Affairs & Black Student Specialist, provided invaluable expertise on the historic Black experience at Grinnell College. We are deeply grateful for their time, expertise and input!
 
+The project received significant assistance from Grinnell College’s Archives and Special Collections team, Chris Jones and Allison Haack. Thank you for your help! 
 
 
 
