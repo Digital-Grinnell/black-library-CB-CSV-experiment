@@ -5,5 +5,5 @@ creator,true,false
 description,true,true
 subject,true,true
 people,true, true
-location,true,false
+location,true,true
 objectid,true,true
